@@ -1,4 +1,4 @@
-# 🎓 Student Result Analysis System
+# 🎓 Student Exam Performance Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange.svg)
