@@ -22,7 +22,7 @@
 
 ## 🎯 Project Overview
 
-**Student Result Analysis System** is a comprehensive data analytics project that helps educational institutions analyze student performance patterns using Python, MySQL, and data visualization tools. The system processes student exam data to identify factors affecting academic performance and provides actionable insights.
+**Student Exam Performance Analysis** is a comprehensive data analytics project that helps educational institutions analyze student performance patterns using Python, MySQL, and data visualization tools. The system processes student exam data to identify factors affecting academic performance and provides actionable insights.
 
 ### 🌟 Project Highlights
 - **30,641 student records** analyzed
