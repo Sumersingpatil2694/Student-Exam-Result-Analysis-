@@ -8,7 +8,7 @@
 
 -- Step 1: Create Database
 -- ============================================================================
-DROP DATABASE IF EXISTS student_analysis;
+DROP DATABASE IF EXISTS student_analysis; 
 CREATE DATABASE student_analysis;
 USE student_analysis;
 
